@@ -1,7 +1,8 @@
 <p>
   <samp>
     Discover the Nuxt organisation on <a href="https://github.com/nuxt">github.com/nuxt</a>.<br>
-    The list of modules is on <a href="https://nuxt.com/modules">nuxt.com/modules</a>.<br>
+    Explore all modules on <a href="https://nuxt.com/modules">nuxt.com/modules</a>.<br>
+    List your module on <a href="https://github.com/nuxt/modules">nuxt/modules</a> repo.
   </samp>
 </p>
 
